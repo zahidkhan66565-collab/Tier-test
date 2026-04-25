@@ -1,0 +1,13 @@
+name: TierTestPro
+version: 2.0
+main: me.tiertest.TierTestPro
+api-version: '1.21'
+author: Alpha
+
+commands:
+  settier:
+    description: Set player tier
+
+permissions:
+  tiertest.tester:
+    default: op
